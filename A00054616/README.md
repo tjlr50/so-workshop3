@@ -11,6 +11,8 @@ Actividades
 
 -strace pwd, indica la ruta en la que estoy ubicado, para saber en que parte de la estructura de directorios se realizarán cambios o accesos.
 
+[VER CAPTURA EN FOLDER IMAGES]
+
   munmap(2) ubica o elimina ficheros o dispositivos en memoria.
     1. legth: indica la longitud de dicho archivo
     2. strart: indicica el lugar donde se debe comenzar a ejecutar la acción 
